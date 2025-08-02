@@ -12,6 +12,8 @@ I’m a rising junior at the University of Houston, majoring in Computer Science
 - 🔹 [**More...**](https://github.com/yourusername?tab=repositories)
   
 ## Education
+Computer Science Student - University of Houston
+Online Machine Learning Foundations e-Certificate - Cornell University (Break Through Tech)
 
 ## Languages and Tools
 
