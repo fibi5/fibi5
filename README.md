@@ -7,9 +7,8 @@ I’m a rising junior at the University of Houston, majoring in Computer Science
 - www.linkedin.com/in/fidabibimerchant
 
 ## Projects
-- 🔹 [**Project One**](https://github.com/yourusername/project-one) — _Short description of what it does_
+- 🔹 https://github.com/fibi5/Lab-5-Break-Through-Tech — Performed model selection and evaluation for a logistic regression classifier.
 - 🔹 [**Project Two**](https://github.com/yourusername/project-two) — _Another short summary_
-- 🔹 [**More...**](https://github.com/yourusername?tab=repositories)
   
 ## Education
 Computer Science Student - University of Houston
