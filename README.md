@@ -7,8 +7,6 @@ I’m a rising junior at the University of Houston, majoring in Computer Science
 - www.linkedin.com/in/fidabibimerchant
 
 ## Projects
-- 🔹 https://github.com/fibi5/Lab-5-Break-Through-Tech — Performed model selection and evaluation for a logistic regression classifier.
-- 🔹 https://github.com/fibi5/Airbnb-Price-Prediction-Break-Through-Tech-Lab-8-?tab=readme-ov-file#airbnb-price-prediction-break-through-tech-lab-8- — Developed a regression model in Python using Jupyter Notebook to predict Airbnb listing prices from a dataset.
   
 ## Education
 Computer Science Student - University of Houston
