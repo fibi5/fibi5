@@ -7,6 +7,10 @@ I’m a rising junior at the University of Houston, majoring in Computer Science
 - www.linkedin.com/in/fidabibimerchant
 
 ## Projects
+https://github.com/Rishik15/BTT_GM2
+https://github.com/tif-car/Data_science_DBLP
+https://github.com/datnguyen1/comic-generator
+https://github.com/HungH206/SustainEDU
   
 ## Education
 Computer Science Student - University of Houston
