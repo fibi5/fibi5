@@ -2,7 +2,7 @@
 ## Student at the University of Houston | Break Through Tech Fellow
 Hi, I’m Fida! 
 
-I’m a rising junior at the University of Houston, majoring in Computer Science with a minor in Mathematics. I have a passion for problem solving and a fascination with Machine Learning. Currently, I'm strengthening my leadership skills and machine learning fundamentals through the Break Through Tech AI program.
+I’m a Senior at the University of Houston, majoring in Computer Science with a minor in Mathematics. I have a passion for problem solving and a fascination with Machine Learning. Currently, I'm strengthening my leadership skills and machine learning fundamentals through the Break Through Tech AI program.
 ## LinkedIn
 - www.linkedin.com/in/fidabibimerchant
 
